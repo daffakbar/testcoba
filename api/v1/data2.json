@@ -1,0 +1,28 @@
+[
+    {
+     "idSalad": "0",
+     "namaSalad": "Premium salad",
+     "hargaSalad": "35.00",
+     "imgSalad": "https://i.ibb.co/7pxZw3f/circle-cropped.png"
+      
+    },
+    {
+      "idSalad": "1",
+      "namaSalad": "Green salad",
+      "hargaSalad": "24.00",
+      "imgSalad": "https://i.ibb.co/pJjDgmf/circle-cropped-2.png"
+      
+     },
+     {
+      "idSalad": "2",
+      "namaSalad": "Fruits salad",
+      "hargaSalad": "19.00",
+      "imgSalad": "https://i.ibb.co/VLYjSY1/circle-cropped-3.png"
+     },
+     {
+      "idSalad": "3",
+      "namaSalad": "Pasta salad",
+      "hargaSalad": "29.00",
+      "imgSalad": "https://i.ibb.co/zQrCC0m/circle-cropped-4.png"
+     }
+]
