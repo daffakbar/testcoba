@@ -1,28 +1,54 @@
 [
     {
-     "idSalad": "0",
-     "namaSalad": "Premium salad",
-     "hargaSalad": "35.00",
-     "imgSalad": "https://i.ibb.co/7pxZw3f/circle-cropped.png"
-      
+     "id": "0",
+     "nama_plant": "Jade Plant",
+     "harga_plant": "$19.99",
+     "diskon_plant": "50%",
+     "harga_diskon_plant": "$9.99",
+     "img_plant": "https://i.ibb.co/BsCDFqd/produk1.jpg"
     },
     {
-      "idSalad": "1",
-      "namaSalad": "Green salad",
-      "hargaSalad": "24.00",
-      "imgSalad": "https://i.ibb.co/pJjDgmf/circle-cropped-2.png"
-      
-     },
-     {
-      "idSalad": "2",
-      "namaSalad": "Fruits salad",
-      "hargaSalad": "19.00",
-      "imgSalad": "https://i.ibb.co/VLYjSY1/circle-cropped-3.png"
-     },
-     {
-      "idSalad": "3",
-      "namaSalad": "Pasta salad",
-      "hargaSalad": "29.00",
-      "imgSalad": "https://i.ibb.co/zQrCC0m/circle-cropped-4.png"
-     }
+     "id": "1",
+     "nama_plant": "Crassula aborescent",
+     "harga_plant": "$12.99",
+     "diskon_plant": "40%",
+     "harga_diskon_plant": "$7.79",
+     "img_plant": "https://i.ibb.co/wRDxmV3/produk2.jpg"
+    },
+    {
+     "id": "2",
+     "nama_plant": "Crassula Ovata",
+     "harga_plant": "$14.99",
+     "diskon_plant": "25%",
+     "harga_diskon_plant": "$11.24",
+     "img_plant": "https://i.ibb.co/bW9ZJ0c/produk3.jpg"
+    },
+    {
+     "id": "3",
+     "nama_plant": "Blue Chalksticks",
+     "harga_plant": "$11.99",
+     "diskon_plant": "25%",
+     "harga_diskon_plant": "$8.99",
+     "img_plant": "https://i.ibb.co/h2HF8V7/produk4.jpg"
+    },
+    {
+     "id": "4",
+     "nama_plant": "String Of Pearls",
+     "harga_plant": "$16.99",
+     "diskon_plant": "22%",
+     "harga_diskon_plant": "$13.25",
+     "img_plant": "https://i.ibb.co/PzBqmgB/produk5.jpg"
+    },
+    {
+     "id": "5",
+     "nama_plant": "Agave Azul",
+     "harga_plant": "$9.99",
+     "diskon_plant": "10%",
+     "harga_diskon_plant": "$9.99",
+     "img_plant": "https://i.ibb.co/zbYBr3Z/coba2.jpg"
+    }
+    
 ]
+
+
+
