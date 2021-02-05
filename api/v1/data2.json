@@ -40,13 +40,30 @@
      "img_plant": "https://i.ibb.co/PzBqmgB/produk5.jpg"
     },
     {
-     "id": "5",
-     "nama_plant": "Agave Azul",
-     "harga_plant": "$9.99",
-     "diskon_plant": "10%",
-     "harga_diskon_plant": "$9.99",
-     "img_plant": "https://i.ibb.co/zbYBr3Z/coba2.jpg"
-    }
+        "id": "5",
+        "nama_plant": "Jade Plant",
+        "harga_plant": "$19.99",
+        "diskon_plant": "50%",
+        "harga_diskon_plant": "$9.99",
+        "img_plant": "https://i.ibb.co/BsCDFqd/produk1.jpg"
+    },
+    {
+        "id": "6",
+        "nama_plant": "Crassula aborescent",
+        "harga_plant": "$12.99",
+        "diskon_plant": "40%",
+        "harga_diskon_plant": "$7.79",
+        "img_plant": "https://i.ibb.co/wRDxmV3/produk2.jpg"
+       },
+       {
+        "id": "7",
+        "nama_plant": "Crassula Ovata",
+        "harga_plant": "$14.99",
+        "diskon_plant": "25%",
+        "harga_diskon_plant": "$11.24",
+        "img_plant": "https://i.ibb.co/bW9ZJ0c/produk3.jpg"
+       }
+
     
 ]
 
